@@ -42,7 +42,7 @@ Contributions are welcome! Please fork the repository and open a pull request wi
 
 
 ## Authors
-- Fatemeh Dorj  email:f.dorj2@gmail.com
+- Fatemeh Dorj-f.dorj2@gmail.com
  
 ## Project Link
 [Mr. Jack Board Game in C](https://github.com/FDorj/Mr.Jack-in-C)
